@@ -1,0 +1,1 @@
+﻿The Application Layer will contain the Interfaces and Types that are specific for this Application.
